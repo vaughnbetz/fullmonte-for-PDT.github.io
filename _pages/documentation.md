@@ -6,7 +6,7 @@ permalink: /proj-documentation/
    
 Installation Guide
 -------------
-For the Installation Guide, please refer to [installation guide]().  
+For the Installation Guide, please refer to [installation guide](https://github.com/fullmonte-for-PDT/fullmonte-source-code/blob/master/FullMonteSW/docs/Installation_Guide.odt).  
   
 Tutorial
 -------------
